@@ -50,28 +50,4 @@ To install **Cockpit** simply run
 pip install 'git+https://github.com/f-dangel/cockpit.git'
 ```
 
-<!-- Documentation -->
-## Documentation
-
-The [documentation](https://cockpit.readthedocs.io/) provides a full tutorial on how to get started using **Cockpit** as well as a detailed documentation of its API.
-
-<!-- Experiments -->
-## Experiments
-
-To showcase the capabilities of **Cockpit** we performed several experiments illustrating the usefulness of our debugging tool. For a discussion of those experiments please refer to our [paper](https://arxiv.org/abs/2102.06604).
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See [`LICENSE`](LICENSE.txt) for more information.
-
-<!-- Citation -->
-## Citation
-
-If you use **Cockpit**, please consider citing:
-
-> [Frank Schneider, Felix Dangel, Philipp Hennig<br/>
-> **Cockpit: A Practical Debugging Tool for Training Deep Neural Networks**<br/>
-> *arXiv 2102.06604*](http://arxiv.org/abs/2102.06604)
-
 
