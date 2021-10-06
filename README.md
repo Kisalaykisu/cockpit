@@ -1,18 +1,13 @@
 # cockpit
 A Practical Debugging Tool for Training Deep Neural Networks
-
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-<a href="#"><img src="docs/source/_static/Banner.svg" alt="Logo"/></a>
-  <h3 align="center">A Practical Debugging Tool for Training Deep Neural Networks</h3>
-
-  <p align="center">
-    A better status screen for deep learning.
-  </p>
-</p>
+![LogoSquare](https://user-images.githubusercontent.com/15075906/136155755-5ad67b64-9b5c-470e-a5ed-3b9f8a644b93.png)
 
 
+
+![01_basic_fmnist](https://user-images.githubusercontent.com/15075906/136155808-cb4b5938-ec96-4f2c-94a0-0c27ef47ff12.png)
+
+![02_advanced_fmnist](https://user-images.githubusercontent.com/15075906/136155865-e77dc04a-0e0b-43e2-89e8-c1b04a9832ab.png)
+![03_deepobs](https://user-images.githubusercontent.com/15075906/136155874-3b0b8439-ce55-4aad-b77c-111bdc5913cc.png)
 
 
 ```bash
@@ -37,3 +32,4 @@ pip install 'git+https://github.com/f-dangel/cockpit.git'
 ```
 
 
+![LogoSquare](https://user-images.githubusercontent.com/15075906/136155956-2810c412-984c-4489-ad4e-c1491deef4cc.png)
