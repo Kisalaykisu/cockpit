@@ -1,6 +1,8 @@
 # cockpit
 A Practical Debugging Tool for Training Deep Neural Networks
-![LogoSquare](https://user-images.githubusercontent.com/15075906/136155755-5ad67b64-9b5c-470e-a5ed-3b9f8a644b93.png)
+
+
+![Banner](https://user-images.githubusercontent.com/15075906/136156325-af7861d7-d184-4513-82b6-077f4b859cbb.png)
 
 
 
@@ -32,4 +34,4 @@ pip install 'git+https://github.com/f-dangel/cockpit.git'
 ```
 
 
-![LogoSquare](https://user-images.githubusercontent.com/15075906/136155956-2810c412-984c-4489-ad4e-c1491deef4cc.png)
+
