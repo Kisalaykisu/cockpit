@@ -12,12 +12,6 @@ A Practical Debugging Tool for Training Deep Neural Networks
   </p>
 </p>
 
-<p align="center">
-  <a href="#installation">Installation</a> •
-  <a href="https://cockpit.readthedocs.io/">Docs</a> •
-  <a href="#license">License</a> •
-  <a href="#citation">Citation</a>
-</p>
 
 
 
