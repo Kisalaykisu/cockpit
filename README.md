@@ -22,7 +22,7 @@ pip install 'git+https://github.com/f-dangel/cockpit.git'
 
 ---
 
-![CockpitAnimation](docs/source/_static/showcase.gif)
+
 
 <!-- Installation -->
 ## Installation
